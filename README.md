@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Satkuri Saikiran</h1>
+<h1 align="center">Driving AI-Powered Innovations</h1>
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🔭 I’m currently working on **Machine Learning 🤖**
 
-- 🌱 I’m currently learning **Data Science ▶• ılıılıılıılıılıılı. 0 **
+- 🌱 I’m currently learning **Data Science ▶• ılıılıılıılıılıılı**
 
 - 📝 I regularly write articles on [https://medium.com/@satkurisaikiran](https://medium.com/@satkurisaikiran)
 
